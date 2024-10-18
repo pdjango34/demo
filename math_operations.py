@@ -17,3 +17,7 @@ def subtract(a, b):
     :return: Difference of a and b
     """
     return a - b
+
+
+def multiply(a, b):
+    return a*b
